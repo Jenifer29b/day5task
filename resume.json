@@ -1,0 +1,32 @@
+//personal details :
+{
+       "Name"                    :    "Jenifer.B",
+       "Age"                     :    "20",
+       "place"                   :    "Chennai",
+       "Contact"                 :    "9999999999",
+       "Email"                   :    "XXXXXXXXXXXXXXXXXXX",
+       "Hobby"                   :    "Listening Music",
+//studies details :
+       "Degree"                  :    "B.sc (cs)",
+       "Year"                    :    "2021-24",
+       "Institute"               :    "MWC chennai-54",
+       "Percentage"              :    "85",
+ // Ambition     
+       "Aim"                     :    "To become a software developer",
+       "Skills"                  :    "Python,MySql",
+       "carrer Objective"        :    "Seeking a challenging position in a reputable organization where I can utilize my skills and knowledge",
+        
+//Project Details
+       "projects"                :    "Tourism Management System",
+       "Description"             :    "A tourism Management is an web application that used to book,check packages and helpful for customers",
+ //other Details      
+       "Languages Known"         :    "English,Tamil",
+       "Strength"                :    "Time Management,Problem solving"
+     }
+
+     
+    
+    
+
+
+
